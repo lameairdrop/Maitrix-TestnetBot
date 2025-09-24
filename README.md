@@ -3,7 +3,7 @@
 
 An automated bot for interacting with the Maitrix Testnet ecosystem, handling faucet claims, token minting, and staking operations
 
-**GitHub Repository**: https://github.com/lameairdrop/Maitrix-Testnet-Bot
+**GitHub Repository**: https://github.com/lameairdrop/Maitrix-TestnetBot
 
 ## 🚀 Features
 
